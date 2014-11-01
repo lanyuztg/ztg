@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+    <section class="goods" id="goods">
+      <p class="contact" id="contact">公司名称：武汉玖康乐科技有限公司</p>
+      <p class="contact">公司地址：武汉市江夏区谭湖一路8号</p>
+      <p class="contact">联系电话：18871163450</p>      
+      <p class="contact">联系  QQ：1304569599</p>
+    </section>
+

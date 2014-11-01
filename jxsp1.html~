@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: zhBase
 ---
     <section>
       <img class="image" src="{{ site.url }}/image/jiu/jxsp.jpg" />
