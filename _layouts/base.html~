@@ -19,7 +19,7 @@
       <nav>          
         <ul>
           <li class="shou">
-            <a href="{{ site.url }}/index">首页</a>
+            <a href="{{ site.url }}">首页</a>
           </li>
           <li class="te">
             <a href="{{ site.url }}/nutrition">营养保健</a>
