@@ -4,7 +4,6 @@
   width: 980px;
   margin-top: 40px;
   list-style-type: none;
-  background: red;
 }
 
 .page li {
@@ -22,6 +21,6 @@
   text-decoration: none;
 }
 
-.page1 { margin-left: 840px; }
+.page1 { margin-left: 830px; }
 
 .page2 { margin-left: 8px; }
