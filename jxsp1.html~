@@ -1,5 +1,5 @@
 ---
-layout: zhBase
+layout: base
 ---
     <section>
       <img class="image" src="{{ site.url }}/image/jiu/jxsp.jpg" />
@@ -180,6 +180,9 @@ layout: zhBase
        </li>
        <li class="page2">
          <a href="{{ site.url }}/jxsp2">2</a>
+       </li>
+       <li class="page3">
+         <a href="{{ site.url }}/jxsp3">2</a>
        </li>
      </ul>
  </section>
