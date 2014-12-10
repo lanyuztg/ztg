@@ -170,6 +170,8 @@ layout: base
        <a href="">
          <img src="{{ site.url }}/image/jiu/yy21.jpg"/>         
        </a>
-       <p class="name"></p>
+       <p class="name">人参虫草玛卡片</p> 
+       <p class="group">团购价：￥330元</p>
+       <p>市场价：￥480元</p>
      </div>  
  </section>

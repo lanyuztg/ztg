@@ -38,9 +38,6 @@
           </li>
           <li class="te">
             <a href="{{ site.url }}/jllp">敬老礼品</a>
-          </li>                                  
-          <li class="te">
-            <a href="">商品分类</a>
           </li>
         </ul> 
       </nav>      
